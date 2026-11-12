@@ -1,0 +1,38 @@
+[
+{"name":"2026-11-13_story","size":[1080,1920],"count":false,"slides":[
+ {"kicker":"14. November","title":"Morgen ist Weltdiabetestag.","h1size":130},
+ {"kicker":"Morgen im Feed","title":"Ihre Füße in 60 Sekunden kontrollieren.","body":["Wir zeigen Ihnen, worauf Sie bei Diabetes täglich achten sollten."]}
+]},
+{"name":"2026-11-14_karussell","size":[1080,1350],"slides":[
+ {"kicker":"Weltdiabetestag · 14. November","title":"Ihre Füße in 60 Sekunden kontrollieren.","h1size":108,"body":["Speichern Sie sich diese Liste."],"hint":"Wischen &rarr;"},
+ {"kicker":"Warum täglich?","title":"Kleine Verletzungen bleiben oft unbemerkt.","body":["Bei Diabetes kann das Empfinden in den Füßen nachlassen.","Eine Blase oder ein Riss fällt dann leicht erst spät auf."]},
+ {"kicker":"Schritt 1","title":"Schauen","body":["Fußsohle, Ferse und Zehenzwischenräume.","Achten Sie auf Rötungen, Blasen, Risse, Druckstellen und Verfärbungen."],"notes":["Ein Handspiegel hilft bei der Fußsohle."]},
+ {"kicker":"Schritt 2","title":"Fühlen","body":["Fühlt sich eine Stelle wärmer an oder ist sie geschwollen?","Ist die Haut sehr trocken oder rissig?"]},
+ {"kicker":"Schritt 3","title":"Vorbeugen","body":["Wassertemperatur mit dem Thermometer prüfen, nicht mit dem Fuß.","Vor dem Anziehen kurz in die Schuhe greifen.","Nicht barfuß laufen."]},
+ {"kicker":"Fällt Ihnen etwas auf?","title":"Lassen Sie es zeitnah ärztlich abklären.","body":["Für die regelmäßige Behandlung arbeiten Arzt und Podologe zusammen."],"cta":"www.wohlgefuehl-mg.de","notes":["Dieser Beitrag ersetzt keine ärztliche Untersuchung."]}
+]},
+{"name":"2026-11-14_story","size":[1080,1920],"count":false,"slides":[
+ {"kicker":"Podologie auf Rezept?","title":"Bei Diabetes unter bestimmten Voraussetzungen möglich.","h1size":104},
+ {"kicker":"So läuft es","title":"Ihr Arzt verordnet. Wir behandeln.","body":["Als staatlich geprüfter Podologe mit Kassenzulassung."]},
+ {"kicker":"Fragen?","title":"Schreiben Sie uns.","body":["WhatsApp 0152 / 264 12 617","Telefon 02161 / 69 80 580"],"cta":"www.wohlgefuehl-mg.de"}
+]},
+{"name":"2026-11-17_reel_frames","size":[1080,1920],"count":false,"slides":[
+ {"kicker":"Gut zu wissen","title":"Podologie oder Fußpflege?","h1size":140,"body":["Drei Unterschiede."]},
+ {"num":"1","kicker":"Ausbildung","title":"Geschützte Berufsbezeichnung.","body":["Podologe darf sich nur nennen, wer eine mehrjährige Ausbildung mit staatlicher Prüfung abgeschlossen hat."]},
+ {"num":"2","kicker":"Behandlung","title":"Auch für Risikopatienten.","body":["Podologen behandeln medizinisch, zum Beispiel bei Diabetes."]},
+ {"num":"3","kicker":"Verordnung","title":"Auf ärztliche Verordnung möglich.","body":["Podologische Behandlung kann ärztlich verordnet werden."]},
+ {"kicker":"Ihre Praxis in Mönchengladbach","title":"Podologie Praxis wohlGefühl bei&nbsp;S.&nbsp;Wilt","h1size":110,"cta":"www.wohlgefuehl-mg.de"}
+]},
+{"name":"2026-11-19_karussell","size":[1080,1350],"slides":[
+ {"kicker":"Eingewachsener Nagel?","title":"Drei Fehler, die es oft schlimmer machen.","h1size":108,"hint":"Wischen &rarr;"},
+ {"num":"1","kicker":"Fehler 1","title":"Ecken rund schneiden","body":["Nägel lieber gerade schneiden und die Ecken nicht tief herausschneiden."]},
+ {"num":"2","kicker":"Fehler 2","title":"Selbst herausschneiden","body":["Mit Schere oder Zange am Nagelrand zu arbeiten, kann Verletzungen und Entzündungen verursachen."]},
+ {"num":"3","kicker":"Fehler 3","title":"Abwarten, bis es nicht mehr geht","body":["Je früher behandelt wird, desto schonender ist die Behandlung meist."]},
+ {"kicker":"Was hilft?","title":"Fachgerecht entlasten.","body":["Der Podologe entlastet den Nagelrand fachgerecht.","Bei Bedarf korrigiert eine Nagelspange das Wachstum des Nagels."]},
+ {"kicker":"Wann zum Arzt?","title":"Bitte ärztlich abklären lassen bei:","body":["Eiter, starker Rötung, Schwellung, Fieber &ndash; oder wenn Sie Diabetes haben."],"cta":"www.wohlgefuehl-mg.de","notes":["Dieser Beitrag ersetzt keine ärztliche Untersuchung."]}
+]},
+{"name":"2026-11-21_story","size":[1080,1920],"count":false,"slides":[
+ {"kicker":"Termin bei uns?","title":"Drei Wege.","h1size":140,"body":["Online: wohlgefuehl-mg.de","WhatsApp: 0152 / 264 12 617","Telefon: 02161 / 69 80 580"]},
+ {"kicker":"Öffnungszeiten","title":"Di&ndash;Fr 10&ndash;18 Uhr<br>Sa 10&ndash;14 Uhr","h1size":110,"body":["Termine nur nach Vereinbarung."]}
+]}
+]
