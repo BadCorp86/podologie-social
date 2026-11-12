@@ -2,7 +2,7 @@
 import sys, json, pathlib, base64
 from playwright.sync_api import sync_playwright
 
-ROOT = pathlib.Path("/home/claude")
+ROOT = pathlib.Path(__file__).resolve().parent.parent  # Repo-Root. Fonts: ROOT/fonts via `npm pack @fontsource/cormorant-garamond @fontsource/inter` + entpacken
 F = ROOT / "fonts"
 CG = next(F.glob("fontsource-cormorant-garamond-*/files"))
 IN = next(F.glob("fontsource-inter-*/files"))
