@@ -68,3 +68,7 @@ Reichweite KW47 nach Format: Reel 24, Karussell 9, Post 1. Tägliche Reichweite 
 - Säulen: 2 (Nagel, nachgeholt), 1 (Behandlungsablauf), 2 (rissige Fersen, saisonal), Stories 5 (Termin, nachgeholt) und 1 (Wiederverwertung Reel).
 - Ausgefallene Beiträge (Nagel-Karussell, Termin-Story) unverändert nachholen – sie wurden nie veröffentlicht, daher keine Wiederholung.
 - Posting-Aufträge so schlank wie möglich halten, damit sie auch bei knappem Nutzungslimit durchlaufen.
+
+## Eingeplant am 23.11.2026: kindgerechte Comic-Reels (Instagram + YouTube Shorts)
+
+Von Sergej freigegeben, Plan und Titel in strategie/reels-kinder-plan.md. Geplante Aufgaben jeweils 18:30 Uhr: Di 24.11. Nagel, Do 26.11. Hühnerauge, So 29.11. Stein im Schuh, Di 01.12. Insulin. Ausnahme vom Brand-Profil: Du-Ansprache (kindgerecht). Bei der Wochenplanung KW49 die Termine 29.11. und 01.12. 18:30 freihalten bzw. Posts zeitlich versetzen. Die Wochenauswertungen sollen die Reels und die YouTube-Shorts mit auswerten.
