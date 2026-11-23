@@ -18,6 +18,7 @@
 |---|---|---|---|
 | 19.11.2026 18:30 | Karussell „Eingewachsener Nagel“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED (Nutzungslimit des Claude-Kontos) | Nicht veröffentlicht. Neu eingeplant für Di 24.11.2026 18:30 (festgestellt bei Auswertung 23.11.) |
 | 21.11.2026 18:35 | Story „Termin auf drei Wegen“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED | Nicht veröffentlicht. Neu eingeplant für Mi 25.11.2026 18:30 |
+| 23.11.2026 | Einplanen der Posting-Aufträge KW48 | create_trigger aus der Wochenauswertung heraus ohne Freigabe nicht erlaubt | Texte und Medien fertig (strategie/wochenplan-kw48.md); Sergej muss das Einplanen per Antwort freigeben |
 | 21.11.2026 | Reel „Hygiene“ | nie eingeplant – keine Clips unter media/clips-hygiene/ | wartet auf echte Clips von Sergej |
 
 ## Auswertung KW47 (23.11.2026)
