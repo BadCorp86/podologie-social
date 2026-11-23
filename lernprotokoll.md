@@ -11,12 +11,13 @@
 | 14.11.2026 20:35 | Story Frame 2 (media/2026-11-14_story/02.jpg) | 18128333128933983 | https://www.instagram.com/stories/podologie.moenchengladbach/4030431774392535885 |
 | 14.11.2026 20:35 | Story Frame 3 (media/2026-11-14_story/03.jpg) | 18121062113003686 | https://www.instagram.com/stories/podologie.moenchengladbach/4030431922568923836 |
 | 17.11.2026 18:31 | Reel (media/2026-11-17_reel.mp4, Fußpflege vs. Podologie) | 18406387435204045 | https://www.instagram.com/reel/Df2eMiSnOKD/ – Caption inkl. Hashtags vollständig |
+| 23.11.2026 18:42 | Karussell (media/2026-11-19_karussell/01–06.jpg, Eingewachsener Nagel – nachgeholt vom 19.11.) | 17915660529563794 | https://www.instagram.com/p/DgF8SmqCf2a/ – Caption inkl. Hashtags vollständig. Verspätet ausgelöste Aufgabe vom 19.11.; der Ersatztermin Di 24.11. für dieses Karussell entfällt |
 
 ## Fehler
 
 | Datum/Uhrzeit (MEZ) | Auftrag | Fehlermeldung | Notiz |
 |---|---|---|---|
-| 19.11.2026 18:30 | Karussell „Eingewachsener Nagel“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED (Nutzungslimit des Claude-Kontos) | Nicht veröffentlicht. Neu eingeplant für Di 24.11.2026 18:30 (festgestellt bei Auswertung 23.11.) |
+| 19.11.2026 18:30 | Karussell „Eingewachsener Nagel“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED (Nutzungslimit des Claude-Kontos) | Nicht veröffentlicht. Nachgeholt am 23.11.2026 18:42 (Media-ID 17915660529563794) – kein Ersatztermin 24.11. mehr nötig |
 | 21.11.2026 18:35 | Story „Termin auf drei Wegen“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED | Nicht veröffentlicht. Neu eingeplant für Mi 25.11.2026 18:30 |
 | 23.11.2026 | Einplanen der Posting-Aufträge KW48 | create_trigger aus der Wochenauswertung heraus ohne Freigabe nicht erlaubt | Texte und Medien fertig (strategie/wochenplan-kw48.md); Sergej muss das Einplanen per Antwort freigeben |
 | 21.11.2026 | Reel „Hygiene“ | nie eingeplant – keine Clips unter media/clips-hygiene/ | wartet auf echte Clips von Sergej |
