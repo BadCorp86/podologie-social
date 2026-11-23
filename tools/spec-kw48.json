@@ -1,0 +1,22 @@
+[
+{"name":"2026-11-26_karussell","size":[1080,1350],"slides":[
+ {"kicker":"Podologie ist Medizin","title":"So läuft eine podologische Behandlung ab.","h1size":104,"body":["Vier Schritte, die Sie kennen sollten."],"hint":"Wischen &rarr;"},
+ {"num":"1","kicker":"Gespräch","title":"Zuerst sprechen wir.","body":["Über Ihre Beschwerden, Vorerkrankungen wie Diabetes und Medikamente, die Sie einnehmen."]},
+ {"num":"2","kicker":"Befund","title":"Dann schauen wir genau hin.","body":["Haut, Nägel und Druckstellen werden angesehen und dokumentiert."]},
+ {"num":"3","kicker":"Behandlung","title":"Fachgerecht und hygienisch.","body":["Je nach Befund werden zum Beispiel Nägel bearbeitet, Hornhaut abgetragen oder Hühneraugen entfernt."],"notes":["Mit sterilisierten Instrumenten."]},
+ {"num":"4","kicker":"Empfehlung","title":"Was Sie zu Hause tun können.","body":["Zum Abschluss besprechen wir Pflege, Schuhwerk und wann der nächste Termin sinnvoll ist."]},
+ {"kicker":"Ihr erster Termin","title":"Das sollten Sie mitbringen:","body":["Falls vorhanden, Ihre ärztliche Verordnung und eine Liste Ihrer Medikamente."],"cta":"www.wohlgefuehl-mg.de","notes":["Dieser Beitrag ersetzt keine ärztliche Untersuchung."]}
+]},
+{"name":"2026-11-27_karussell","size":[1080,1350],"slides":[
+ {"kicker":"Trockene Füße im Winter","title":"Rissige Fersen? Darauf sollten Sie achten.","h1size":104,"hint":"Wischen &rarr;"},
+ {"kicker":"Warum gerade jetzt?","title":"Trockene Heizungsluft.","body":["Im Winter wird die Haut an den Füßen oft trockener.","An der Ferse kann verhornte Haut dann leichter einreißen."]},
+ {"num":"1","kicker":"Pflegen","title":"Regelmäßig eincremen.","body":["Mit einer Fußcreme für trockene Haut, am besten abends.","Die Zehenzwischenräume dabei aussparen."]},
+ {"num":"2","kicker":"Nicht selbst schneiden","title":"Kein Hobel, keine Klinge.","body":["Hornhaut mit scharfen Werkzeugen selbst abzutragen, kann zu Verletzungen führen.","Wenn überhaupt, nur sanft mit einer Fußfeile."]},
+ {"num":"3","kicker":"Fachgerecht abtragen","title":"Dicke Hornhaut gehört in die Praxis.","body":["Der Podologe trägt verhornte Haut schonend ab und entlastet so die Ferse."]},
+ {"kicker":"Wann abklären lassen?","title":"Bei tiefen oder blutenden Rissen.","body":["Und wenn Sie Diabetes haben: Lassen Sie Risse an den Füßen zeitnah ärztlich ansehen."],"cta":"www.wohlgefuehl-mg.de","notes":["Dieser Beitrag ersetzt keine ärztliche Untersuchung."]}
+]},
+{"name":"2026-11-27_story","size":[1080,1920],"count":false,"slides":[
+ {"kicker":"Kurz gefragt","title":"Podologie oder Fußpflege &ndash; kennen Sie den Unterschied?","h1size":112},
+ {"kicker":"Gut zu wissen","title":"Podologe ist eine geschützte Berufsbezeichnung.","h1size":112,"body":["Drei Unterschiede erklären wir im Reel auf unserem Profil."]}
+]}
+]
