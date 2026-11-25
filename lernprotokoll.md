@@ -77,3 +77,7 @@ Reichweite KW47 nach Format: Reel 24, Karussell 9, Post 1. Tägliche Reichweite 
 ## Eingeplant am 23.11.2026: kindgerechte Comic-Reels (Instagram + YouTube Shorts)
 
 Von Sergej freigegeben, Plan und Titel in strategie/reels-kinder-plan.md. Geplante Aufgaben jeweils 18:30 Uhr: Di 24.11. Nagel, Do 26.11. Hühnerauge, So 29.11. Stein im Schuh, Di 01.12. Insulin. Ausnahme vom Brand-Profil: Du-Ansprache (kindgerecht). Bei der Wochenplanung KW49 die Termine 29.11. und 01.12. 18:30 freihalten bzw. Posts zeitlich versetzen. Die Wochenauswertungen sollen die Reels und die YouTube-Shorts mit auswerten.
+
+## Umstellung 25.11.2026: Videos mit OpenMontage
+
+Auf Sergejs Wunsch werden Reels und Videos ab sofort mit OpenMontage (HyperFrames, animierte Comic-Szenen, Wort-für-Wort-Untertitel) produziert, Anleitung in tools/openmontage/README.md. Die Reels für 26.11., 29.11. und 01.12. wurden unter denselben Dateinamen durch die OpenMontage-Fassungen ersetzt. Das Nagel-Reel vom 24.11. lief noch in der alten Fassung; die neue liegt als media/2026-11-24_reel-nagel_openmontage.mp4 bereit. Für neue Reels gilt: OpenMontage statt ffmpeg-Standbild-Reels.

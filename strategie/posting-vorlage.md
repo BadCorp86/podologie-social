@@ -21,3 +21,5 @@ HEUTIGER AUFTRAG:
 ```
 
 Bewährte technische Details: Karussell = Kind-Container (is_carousel_item, alt_text) -> INSTAGRAM_CREATE_CAROUSEL_CONTAINER -> publish. Story = je Frame ein Container media_type STORIES. Reel = video_url, media_type REELS, share_to_feed true. Bilder JPEG 1080x1350 (Feed) bzw. 1080x1920 (Story/Reel). raw.githubusercontent.com-URLs werden von Instagram akzeptiert (getestet 12.11.2026).
+
+Video-Produktion: Reels und Videos werden seit 25.11.2026 mit OpenMontage (HyperFrames) erstellt, siehe tools/openmontage/README.md.
