@@ -14,13 +14,15 @@
 | 23.11.2026 18:42 | Karussell (media/2026-11-19_karussell/01–06.jpg, Eingewachsener Nagel – nachgeholt vom 19.11.) | 17915660529563794 | https://www.instagram.com/p/DgF8SmqCf2a/ – Caption inkl. Hashtags vollständig. Verspätet ausgelöste Aufgabe vom 19.11.; der Ersatztermin Di 24.11. für dieses Karussell entfällt |
 | 24.11.2026 18:32 | Reel (media/2026-11-24_reel-nagel.mp4, Eingewachsener Nagel – kindgerecht) | 18388350529237009 | https://www.instagram.com/reel/DgIf5drlXKd/ – Caption inkl. Hashtags vollständig |
 | 24.11.2026 18:36 | YouTube Short (media/2026-11-24_reel-nagel.mp4, „Eingewachsener Nagel einfach erklärt #Shorts“) | 9TBoiTQ6eWM | https://www.youtube.com/shorts/9TBoiTQ6eWM – öffentlich |
+| 25.11.2026 09:49 | Story Frame 1 (media/2026-11-21_story/01.jpg, Termin auf drei Wegen – nachgeholt vom 21.11.) | 18139955032648260 | https://www.instagram.com/stories/podologie.moenchengladbach/4038078829302195977 |
+| 25.11.2026 09:49 | Story Frame 2 (media/2026-11-21_story/02.jpg, Termin auf drei Wegen – nachgeholt vom 21.11.) | 18005216601011050 | https://www.instagram.com/stories/podologie.moenchengladbach/4038078995665463141 |
 
 ## Fehler
 
 | Datum/Uhrzeit (MEZ) | Auftrag | Fehlermeldung | Notiz |
 |---|---|---|---|
 | 19.11.2026 18:30 | Karussell „Eingewachsener Nagel“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED (Nutzungslimit des Claude-Kontos) | Nicht veröffentlicht. Nachgeholt am 23.11.2026 18:42 (Media-ID 17915660529563794) – kein Ersatztermin 24.11. mehr nötig |
-| 21.11.2026 18:35 | Story „Termin auf drei Wegen“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED | Nicht veröffentlicht. Neu eingeplant für Mi 25.11.2026 18:30 |
+| 21.11.2026 18:35 | Story „Termin auf drei Wegen“ | Aufgabe nicht ausgeführt: USAGE_LIMIT_REACHED | Nicht veröffentlicht. Nachgeholt am 25.11.2026 09:49 (Media-IDs 18139955032648260, 18005216601011050) |
 | 23.11.2026 | Einplanen der Posting-Aufträge KW48 | create_trigger aus der Wochenauswertung heraus ohne Freigabe nicht erlaubt | Texte und Medien fertig (strategie/wochenplan-kw48.md); Sergej muss das Einplanen per Antwort freigeben |
 | 21.11.2026 | Reel „Hygiene“ | nie eingeplant – keine Clips unter media/clips-hygiene/ | wartet auf echte Clips von Sergej |
 
