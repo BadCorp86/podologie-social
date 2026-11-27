@@ -16,6 +16,8 @@
 | 24.11.2026 18:36 | YouTube Short (media/2026-11-24_reel-nagel.mp4, „Eingewachsener Nagel einfach erklärt #Shorts“) | 9TBoiTQ6eWM | https://www.youtube.com/shorts/9TBoiTQ6eWM – öffentlich |
 | 25.11.2026 09:49 | Story Frame 1 (media/2026-11-21_story/01.jpg, Termin auf drei Wegen – nachgeholt vom 21.11.) | 18139955032648260 | https://www.instagram.com/stories/podologie.moenchengladbach/4038078829302195977 |
 | 25.11.2026 09:49 | Story Frame 2 (media/2026-11-21_story/02.jpg, Termin auf drei Wegen – nachgeholt vom 21.11.) | 18005216601011050 | https://www.instagram.com/stories/podologie.moenchengladbach/4038078995665463141 |
+| 27.11.2026 09:24 | Reel (media/2026-11-26_reel-huehnerauge.mp4, Hühnerauge – kindgerecht, nachgeholt vom 26.11.) | 18127930333721343 | https://www.instagram.com/reel/DgPPmarPGMU/ – Caption inkl. Hashtags vollständig. Aufgabe vom 26.11. 18:30 erst am 27.11. morgens ausgelöst |
+| 27.11.2026 09:26 | YouTube Short (media/2026-11-26_reel-huehnerauge.mp4, „Warum tut ein Hühnerauge weh? #Shorts“) | OcgAvem9EjE | https://www.youtube.com/shorts/OcgAvem9EjE – öffentlich |
 
 ## Fehler
 
