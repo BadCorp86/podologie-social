@@ -3,15 +3,15 @@
 
 | Tag | Uhrzeit | Format | Säule | Thema | Status |
 |---|---|---|---|---|---|
-| Sa 28.11. | 20:30 | Karussell | 1 · Podologie ist Medizin | So läuft eine podologische Behandlung ab (nachgeholt aus KW48) | neu eingeplant |
-| Sa 28.11. | 20:35 | Story | 1 · Podologie ist Medizin | Kurz gefragt: Podologie oder Fußpflege? (nachgeholt aus KW48) | neu eingeplant |
+| Sa 28.11. | 20:30 | Karussell | 1 · Podologie ist Medizin | So läuft eine podologische Behandlung ab (nachgeholt aus KW48) | bereit, Einplanung wartet auf Freigabe |
+| Sa 28.11. | 20:35 | Story | 1 · Podologie ist Medizin | Kurz gefragt: Podologie oder Fußpflege? (nachgeholt aus KW48) | bereit, Einplanung wartet auf Freigabe |
 | So 29.11. | 18:30 | Reel | 3 · Diabetischer Fuß | Stein im Schuh (kindgerecht) | war schon eingeplant |
-| Mo 30.11. | 20:30 | Karussell | 2 · Früh erkannt (Saison) | Rissige Fersen im Winter (nachgeholt aus KW48) | neu eingeplant |
+| Mo 30.11. | 20:30 | Karussell | 2 · Früh erkannt (Saison) | Rissige Fersen im Winter (nachgeholt aus KW48) | bereit, Einplanung wartet auf Freigabe |
 | Di 01.12. | 18:30 | Reel | 3 · Diabetischer Fuß | Insulin einfach erklärt | war schon eingeplant |
 | Mi 02.12. | 18:30 | Reel | 2 · Früh erkannt | Eingewachsener Nagel, neue Version (Wiederholung) | war schon eingeplant |
 | Do 03.12. | 18:30 | Reel | 1 · Podologie ist Medizin | RUCK Nova Pro (Werbung · Markennennung) | war schon eingeplant |
-| Fr 04.12. | 20:30 | Karussell | 4 · Hygiene | Was passiert mit den Instrumenten nach Ihrer Behandlung? | neu eingeplant |
-| Fr 04.12. | 20:35 | Story | 5 · Weg in die Praxis | Sie haben eine Verordnung? So geht es weiter | neu eingeplant |
+| Fr 04.12. | 20:30 | Karussell | 4 · Hygiene | Was passiert mit den Instrumenten nach Ihrer Behandlung? | bereit, Einplanung wartet auf Freigabe |
+| Fr 04.12. | 20:35 | Story | 5 · Weg in die Praxis | Sie haben eine Verordnung? So geht es weiter | bereit, Einplanung wartet auf Freigabe |
 
 **Begründung:** Animierte Reels brachten die meiste Reichweite (195 Konten), daher bleiben die vier Reels der Woche gesetzt. Karussells laufen nur an reel-freien Tagen. Posting-Zeit für Karussells und Stories 20:30/20:35 als einwöchiger Test (online_followers am Abend höher, kleine Stichprobe). Das neue Karussell testet eine Kommentar-Frage in der Caption.
 

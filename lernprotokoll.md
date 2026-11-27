@@ -28,6 +28,7 @@
 | 23.11.2026 | Einplanen der Posting-Aufträge KW48 | create_trigger aus der Wochenauswertung heraus ohne Freigabe nicht erlaubt | Texte und Medien fertig (strategie/wochenplan-kw48.md); Sergej muss das Einplanen per Antwort freigeben |
 | 21.11.2026 | Reel „Hygiene“ | nie eingeplant – keine Clips unter media/clips-hygiene/ | wartet auf echte Clips von Sergej |
 | 26./27.11.2026 | Karussells „Behandlungsablauf“, „Rissige Fersen“, Story „Podologie oder Fußpflege“ (KW48) | nie eingeplant (Freigabe fehlte, siehe 23.11.) | nicht veröffentlicht, daher keine Wiederholung: eingeplant für Sa 28.11., Mo 30.11. (Karussells) und Sa 28.11. (Story) |
+| 27.11.2026 | Einplanen der Posting-Aufträge KW49 (5 Aufgaben) | create_trigger aus der Wochenauswertung heraus ohne Freigabe nicht erlaubt (wie am 23.11.) | Texte, Medien und fertige Auftragstexte liegen bereit (strategie/wochenplan-kw49.md); Sergej muss das Einplanen per Antwort in der Sitzung freigeben. Grundproblem: Die Wochenauswertung kann selbst nie einplanen |
 | 27.11.2026 | YouTube Shorts 9TBoiTQ6eWM und OcgAvem9EjE | Uploads-Playlist zeigt beide als „Deleted video“, Video-API liefert keine Daten | Ursache unbekannt (gelöscht oder von YouTube entfernt); Sergej muss im YouTube Studio prüfen. Die eingeplanten Reels laden weiter auch auf YouTube hoch |
 
 ## Auswertung KW47 (23.11.2026)
