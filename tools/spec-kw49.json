@@ -1,0 +1,14 @@
+[
+{"name":"2026-12-04_karussell","size":[1080,1350],"slides":[
+ {"kicker":"Hygiene, die man sehen kann","title":"Was passiert mit den Instrumenten nach Ihrer Behandlung?","h1size":96,"body":["Vier Schritte, bevor sie wieder benutzt werden."],"hint":"Wischen &rarr;"},
+ {"num":"1","kicker":"Reinigen und desinfizieren","title":"Direkt nach der Behandlung.","body":["Die benutzten Instrumente werden gereinigt und desinfiziert."]},
+ {"num":"2","kicker":"Prüfen und verpacken","title":"Jedes Instrument wird kontrolliert.","body":["Danach wird es einzeln oder im Set verpackt."]},
+ {"num":"3","kicker":"Sterilisieren","title":"Im Sterilisator.","body":["Erst nach der Sterilisation sind die Instrumente wieder bereit für den Einsatz."]},
+ {"num":"4","kicker":"Verpackt bis zum Einsatz","title":"Steril verpackt bis zur Behandlung.","body":["So bleiben die Instrumente geschützt, bis sie gebraucht werden."]},
+ {"kicker":"Auch das gehört dazu","title":"Saubere Flächen, frisches Material.","body":["Zwischen zwei Behandlungen werden die Flächen desinfiziert. Material, das nicht aufbereitet werden kann, wird entsorgt."],"cta":"www.wohlgefuehl-mg.de"}
+]},
+{"name":"2026-12-04_story","size":[1080,1920],"count":false,"slides":[
+ {"kicker":"Gut zu wissen","title":"Sie haben eine Verordnung für Podologie?","h1size":120},
+ {"kicker":"So geht es weiter","title":"Termin vereinbaren, Verordnung mitbringen.","h1size":112,"body":["WhatsApp 0152 / 264 12 617","Telefon 02161 / 69 80 580"],"cta":"www.wohlgefuehl-mg.de"}
+]}
+]
