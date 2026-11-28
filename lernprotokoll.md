@@ -19,6 +19,8 @@
 | 27.11.2026 09:24 | Reel (media/2026-11-26_reel-huehnerauge.mp4, Hühnerauge – kindgerecht, nachgeholt vom 26.11.) | 18127930333721343 | https://www.instagram.com/reel/DgPPmarPGMU/ – Caption inkl. Hashtags vollständig. Aufgabe vom 26.11. 18:30 erst am 27.11. morgens ausgelöst |
 | 27.11.2026 09:26 | YouTube Short (media/2026-11-26_reel-huehnerauge.mp4, „Warum tut ein Hühnerauge weh? #Shorts“) | OcgAvem9EjE | https://www.youtube.com/shorts/OcgAvem9EjE – öffentlich |
 | 28.11.2026 20:31 | Karussell (media/2026-11-26_karussell/01–06.jpg, Behandlungsablauf) | 18116147480127945 | https://www.instagram.com/p/DgTAxAzGbLz/ – Caption inkl. Hashtags vollständig |
+| 28.11.2026 20:36 | Story Frame 1 (media/2026-11-27_story/01.jpg, Podologie oder Fußpflege) | 17915186067482734 | https://www.instagram.com/stories/podologie.moenchengladbach/4040578824681396923 |
+| 28.11.2026 20:36 | Story Frame 2 (media/2026-11-27_story/02.jpg, Podologie oder Fußpflege) | 17920655223534709 | https://www.instagram.com/stories/podologie.moenchengladbach/4040578967833004163 |
 
 ## Fehler
 
