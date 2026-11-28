@@ -15,6 +15,8 @@
 
 **Begründung:** Animierte Reels brachten die meiste Reichweite (195 Konten), daher bleiben die vier Reels der Woche gesetzt. Karussells laufen nur an reel-freien Tagen. Posting-Zeit für Karussells und Stories 20:30/20:35 als einwöchiger Test (online_followers am Abend höher, kleine Stichprobe). Das neue Karussell testet eine Kommentar-Frage in der Caption.
 
+**Caption-Check (tools/ig-check/caption.py, 28.11.):** erste Zeile vollständig sichtbar, 5 Hashtags, keine Emojis; Webadresse durch „Link in der Bio“ ersetzt (Links in Captions sind nicht klickbar), Suchbegriff „Podologen in Mönchengladbach“ ergänzt.
+
 **Prüfung:** Keine Emojis, Sie-Ansprache, keine Heilversprechen, keine Diagnosen, keine Preise/Rabatte, Pflicht-Hinweis bei Gesundheitsthemen, max. 5 Hashtags, Logo nicht nachgebaut, neue Grafiken am 27.11. auf Überlauf und Tippfehler geprüft. Keine Markennennung in den neuen Beiträgen.
 
 ---
@@ -36,7 +38,7 @@
 >
 > Speichern Sie sich den Beitrag für Ihren ersten Termin oder schicken Sie ihn jemandem, der unsicher ist.
 >
-> Termine: www.wohlgefuehl-mg.de, WhatsApp 0152 / 264 12 617 oder Telefon 02161 / 69 80 580.
+> Termine beim staatlich geprüften Podologen in Mönchengladbach: online über den Link in der Bio, per WhatsApp 0152 / 264 12 617 oder Telefon 02161 / 69 80 580.
 >
 > Dieser Beitrag ersetzt keine ärztliche Untersuchung. Bei Beschwerden lassen Sie diese bitte ärztlich abklären.
 >
@@ -70,7 +72,7 @@
 >
 > Speichern Sie sich die Tipps für den Winter.
 >
-> Termine: www.wohlgefuehl-mg.de, WhatsApp 0152 / 264 12 617 oder Telefon 02161 / 69 80 580.
+> Termine beim staatlich geprüften Podologen in Mönchengladbach: online über den Link in der Bio, per WhatsApp 0152 / 264 12 617 oder Telefon 02161 / 69 80 580.
 >
 > Dieser Beitrag ersetzt keine ärztliche Untersuchung. Bei Beschwerden lassen Sie diese bitte ärztlich abklären.
 >
@@ -95,7 +97,7 @@
 >
 > Hygiene gehört für uns gezeigt, nicht nur behauptet. Welche Frage zur Hygiene in der Praxis sollen wir als Nächstes beantworten? Schreiben Sie sie gern in die Kommentare.
 >
-> Termine: www.wohlgefuehl-mg.de, WhatsApp 0152 / 264 12 617 oder Telefon 02161 / 69 80 580.
+> Termine beim staatlich geprüften Podologen in Mönchengladbach: online über den Link in der Bio, per WhatsApp 0152 / 264 12 617 oder Telefon 02161 / 69 80 580.
 >
 > #podologie #hygiene #sterilisation #podologemönchengladbach #mönchengladbach
 
