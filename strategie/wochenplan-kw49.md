@@ -3,8 +3,8 @@
 
 | Tag | Uhrzeit | Format | Säule | Thema | Status |
 |---|---|---|---|---|---|
-| Sa 28.11. | 20:30 | Karussell | 1 · Podologie ist Medizin | So läuft eine podologische Behandlung ab (nachgeholt aus KW48) | bereit, Einplanung wartet auf Freigabe |
-| Sa 28.11. | 20:35 | Story | 1 · Podologie ist Medizin | Kurz gefragt: Podologie oder Fußpflege? (nachgeholt aus KW48) | bereit, Einplanung wartet auf Freigabe |
+| Sa 28.11. | 20:30 | Karussell | 1 · Podologie ist Medizin | So läuft eine podologische Behandlung ab (nachgeholt aus KW48) | eingeplant (28.11.) |
+| Sa 28.11. | 20:35 | Story | 1 · Podologie ist Medizin | Kurz gefragt: Podologie oder Fußpflege? (nachgeholt aus KW48) | eingeplant (28.11.) |
 | So 29.11. | 18:30 | Reel | 3 · Diabetischer Fuß | Stein im Schuh (kindgerecht) | war schon eingeplant |
 | Mo 30.11. | 20:30 | Karussell | 2 · Früh erkannt (Saison) | Rissige Fersen im Winter (nachgeholt aus KW48) | bereit, Einplanung wartet auf Freigabe |
 | Di 01.12. | 18:30 | Reel | 3 · Diabetischer Fuß | Insulin einfach erklärt | war schon eingeplant |
